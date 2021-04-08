@@ -1,6 +1,6 @@
 
 
-COMANDOS BÁSICOS:
+COMANDOS VASCOS:
 =================
 
 * git init                           Oye Git, voy a usar estos documentos contigo ¿vale?
