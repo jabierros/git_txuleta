@@ -1,6 +1,6 @@
 
 
-COMANDOS BÁSICOS:
+COMANDOS BASICOS:
 =================
 
 * git init                           Oye Git, voy a usar estos documentos contigo ¿vale?
@@ -31,3 +31,6 @@ COMANDOS BÁSICOS:
 
 * git config -- global user.email "email" Para configurar email del usuario
 * git config -- global user.name "nombre" Para configurar nombre del usuario
+
+
+**
