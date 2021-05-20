@@ -29,3 +29,5 @@ COMANDOS BÁSICOS:
 
 * git config -- global user.email "email" Para configurar email del usuario
 * git config -- global user.name "nombre" Para configurar nombre del usuario
+
+* git remote set-url origin https://github.com/repository_name.git  Reasignar repositorio remoto, por ejemplo cuando se cambia el nombre del repositorio en git
