@@ -5,6 +5,7 @@ COMANDOS BÁSICOS:
 
 * git add <file>                     Pasa los docs a staging area 
 * git add .                          Pasa todos los archivos
+* git reset                          Si he metido en stage lo que no debía.
 
 * git remote add origin <url>        Relaciona el git local con el remoto  <url>
 
